@@ -18,7 +18,11 @@ Firstly I created a dataset using the URI of our dataset
 
 Created a compute cluster with Standard_D3_v2 with a minimum number of nodes of 1.
 
-Then proceeded creating an Automated ML Experiment, below we can see the completed run:
+Then proceeded creating an Automated ML Experiment
+
+![task7screen3](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/c66ea682-8277-424c-8bfe-1c17be119ff0)
+
+Below we can see the completed run:
 ![task1screenshot2](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/08762253-30f1-4313-a8f6-fca6b3fc7eb6)
 
 The listed models that ran:
@@ -27,7 +31,7 @@ The listed models that ran:
 ![task1screenshot3](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/de0ba2b8-4094-4f1b-b9df-033da784e242)
 
 The best model was found:
-![task7screen3](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/c66ea682-8277-424c-8bfe-1c17be119ff0)
+
 
 Step 3: Deploy the Best Model
 Here I select the best model and select Deploy, choosing to enable authentication and Azure Container Instance (ACI), below we can see the Deployed End Point
