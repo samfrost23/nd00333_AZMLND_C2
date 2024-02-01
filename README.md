@@ -8,6 +8,7 @@ The dataset is data from a bank marketing campaign. The aim of the campaign was 
 ## Architectural Diagram
 
 The Diagram below shows the steps followed implementing the project: 
+
 ![Untitled Diagram drawio](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/1e4c0167-64c4-4fa7-89a3-6a5a7e5a50d9)
 
 ## Key Steps
