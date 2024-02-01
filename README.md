@@ -77,3 +77,8 @@ I have a Jupyter Notebook which uses dataset, cluster, keys and model names and 
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+## Future Work
+Some ideas for improving the project in the future:
+Increase the experiment timeout, this may improve the results as the AutoML can try to find more accuracy.
+Enable Deep learning to possibly increase the performance
