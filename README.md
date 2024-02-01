@@ -6,6 +6,9 @@ This project is part of the Udacity Azure Machine Learning Nanodegree. The objec
 The dataset is data from a bank marketing campaign. The aim of the campaign was to increase the number of subscribers to the bank term deposit. In this project we will try to predict with a "yes" or a "no", whether a client will subscribe to the product or not.
 
 ## Architectural Diagram
+![Untitled Diagram drawio](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/1e4c0167-64c4-4fa7-89a3-6a5a7e5a50d9)
+
+
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 ## Key Steps
