@@ -13,22 +13,24 @@ Step 1: Authentication
 As i am using Udacity lab this step was skipped.
 
 Step 2: Automated ML Experiment
-Firstly we need to create a dataset using the URI of our dataset
+Firstly I created a dataset using the URI of our dataset
 ![task1screenshot1](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/27c84f2f-46f2-4f9a-bb4e-7c2ffd7981de)
 
-We create a compute cluster with Standard D3v2 with a minimum number of nodes of 1.
+Created a compute cluster with Standard_D3_v2 with a minimum number of nodes of 1.
 
-We proceed creating an Automated ML Experiment
+Then proceeded creating an Automated ML Experiment, below we can see the completed run:
 ![task1screenshot2](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/08762253-30f1-4313-a8f6-fca6b3fc7eb6)
-![task7screen3](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/c66ea682-8277-424c-8bfe-1c17be119ff0)
+
+The listed models that ran:
+![task1screenshot4](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/ce796a90-c123-48bc-a533-4cee14a329a0)
 
 ![task1screenshot3](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/de0ba2b8-4094-4f1b-b9df-033da784e242)
 
 The best model was found:
-![task1screenshot4](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/ce796a90-c123-48bc-a533-4cee14a329a0)
+![task7screen3](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/c66ea682-8277-424c-8bfe-1c17be119ff0)
 
 Step 3: Deploy the Best Model
-Here we find the best model and select Deploy, choosing to enable authentication and Azure Container Instance (ACI), below we can see the Deployed End Point
+Here I select the best model and select Deploy, choosing to enable authentication and Azure Container Instance (ACI), below we can see the Deployed End Point
 ![task2insights](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/9d07a50c-e979-4560-a325-739074d25377)
 
 Step 4: Enable Application Insights
