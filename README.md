@@ -73,12 +73,20 @@ I have a Jupyter Notebook which uses dataset, cluster, keys and model names and 
 ![Screenshot 2024-02-01 150203](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/77c1cc0e-2972-4a27-9e2a-0d13045323b7)
 
 ![task7screen12](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/08982785-244d-4469-8ced-c0725124d7e5)
+![Bankmarketing dataset with the AutoML module pipeline](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/b4f151d8-a811-4ea2-b209-9c16473b195c)
+
 ![task7screen4](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/d06ef497-ef36-48e6-82e8-115010fce065)
+
+![pipelines](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/4795969f-88bf-4f3d-9807-f66bfd5a15d7)
+
+![Pipeline Endpoints](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/f6fee623-deea-4afd-a890-6eef5d19757c)
+
+![pipelinerunshow](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/7627bc28-1329-43ad-9d50-8aa08696a4fb)
 
 ## Screen Recording
 Here is a screencast for the project 
 
-https://drive.google.com/file/d/1s29mTumLrt-fP7N1C2AVIlSPSlQAdfSQ/view?usp=sharing
+https://drive.google.com/file/d/19IYyo2sowg5C1VTRY0mZFif7CAgS2T09/view?usp=sharing
 
 ## Future Work
 Some ideas for improving the project in the future:
