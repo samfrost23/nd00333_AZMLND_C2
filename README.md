@@ -1,9 +1,10 @@
 # Operationalizing Machine Learning in Azure
 
 ## Overview
-This project is part of the Udacity Azure Machine Learning Nanodegree. The objective of this project is to configure a cloud-based machine learning production model, deploy it, consume it and create automated process creating, publishing and consuming a pipeline.
+This project is part of the Udacity Azure Machine Learning Nanodegree. The objective of this project is to configure a cloud-based machine learning production model, deploy it, consume it and create automated process creating, publishing and consuming a pipeline. I train a machine learning model using AutoML in Azure Machine Learning Studio and deploy the best model using Azure Container Instance and consume it using the REST endpoints. I also created and published a pipeline using python SDK.
 
 The dataset is data from a bank marketing campaign. The aim of the campaign was to increase the number of subscribers to the bank term deposit. In this project we will try to predict with a "yes" or a "no", whether a client will subscribe to the product or not.
+
 
 ## Architectural Diagram
 
@@ -77,6 +78,8 @@ I have a Jupyter Notebook which uses dataset, cluster, keys and model names and 
 ![Bankmarketing dataset with the AutoML module pipeline](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/b4f151d8-a811-4ea2-b209-9c16473b195c)
 
 ![task7screen4](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/d06ef497-ef36-48e6-82e8-115010fce065)
+
+We can view the pipeline run using the RunDetails widget:
 
 ![pipelinerunshow](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/7627bc28-1329-43ad-9d50-8aa08696a4fb)
 
