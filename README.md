@@ -76,9 +76,13 @@ I have a Jupyter Notebook which uses dataset, cluster, keys and model names and 
 ![task7screen4](https://github.com/samfrost23/nd00333_AZMLND_C2/assets/99268262/d06ef497-ef36-48e6-82e8-115010fce065)
 
 ## Screen Recording
-Here is a screencast for the project https://drive.google.com/file/d/1s29mTumLrt-fP7N1C2AVIlSPSlQAdfSQ/view?usp=sharing
+Here is a screencast for the project 
+
+https://drive.google.com/file/d/1s29mTumLrt-fP7N1C2AVIlSPSlQAdfSQ/view?usp=sharing
 
 ## Future Work
 Some ideas for improving the project in the future:
+
 Increase the experiment timeout, this may improve the results as the AutoML can try to find more accuracy.
+
 Enable Deep learning to possibly increase the performance
